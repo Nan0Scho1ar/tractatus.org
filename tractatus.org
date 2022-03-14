@@ -3,6 +3,7 @@
 :END:
 #+title: Tractatus Logico-Philosophicus
 #+filetags: Book
+#+options: num:nil
 [[id:7bd12fed-f846-48b0-8a45-f8e550b8890d][Book]]
 Author: Ludwig Wittgenstein
 
